@@ -23,13 +23,14 @@
   
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Fortran-05122A?style=flat-square&logo=Fortran&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-LaTeX-05122A?style=flat-square&logo=LaTeX&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Fortran-05122A?style=flat-square&logo=Fortran&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+![Bootstrap](https://img.shields.io/badge/-LaTeX-05122A?style=flat-square&logo=LaTeX&color=353535)
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BenyaminBaraniNia&show_icons=true&locale=en&layout=compact" alt="BenyaminBaraniNia" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=BenyaminBaraniNia&" alt="BenyaminBaraniNia" />
 </div>
-
-
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).

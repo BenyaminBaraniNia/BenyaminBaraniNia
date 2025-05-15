@@ -1,6 +1,4 @@
 # Benyamin Barani Nia
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBenyaminBaraniNia%2FBenyaminBaraniNia&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.BenWrites.ir/)](https://www.BenWrites.ir/)
 [![GoogleScholar](https://img.shields.io/badge/-googlescholar-black?style=flat&logo=googlescholar&logoColor=white&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fhl%3Den%26user%3Dos-xPR4AAAAJ)](https://scholar.google.com/citations?hl=en&user=os-xPR4AAAAJ)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benyamin-barani-nia/)
